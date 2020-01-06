@@ -1,4 +1,8 @@
 # 100-Days-Of-ML-Code
+<p align="center">
+  <img src="https://github.com/MDSADABWASIM/ML-Project/blob/master/assets/ml_image.png>
+</p>
+
 
 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
