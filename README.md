@@ -1,6 +1,6 @@
 # 100-Days-Of-ML-Code
 <p align="center">
-  <img src="https://github.com/MDSADABWASIM/ML-Project/blob/master/assets/ml_image.png>
+  <img src="https://github.com/MDSADABWASIM/ML-Project/blob/master/assets/ml_image.png">
 </p>
 
 
