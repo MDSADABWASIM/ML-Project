@@ -11,3 +11,6 @@ Get the datasets from [here](https://github.com/MDSADABWASIM/ML-Project/tree/mas
 ## Data PreProcessing | Day 1
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day1-DataPreprocessing.ipynb).
 
+
+## Simple Linear Regression | Day 2
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day2-LinearRegression.ipynb).
