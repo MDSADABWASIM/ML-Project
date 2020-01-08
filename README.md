@@ -24,3 +24,12 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day2-LinearRegression.ipynb).
+
+
+## Multiple/Polynomial Linear Regression | Day 3
+
+<p align="center">
+  <img src="https://hackernoon.com/drafts/maq127se.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day3-MultipleLinearReg.ipynb).
