@@ -26,10 +26,20 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day2-LinearRegression.ipynb).
 
 
-## Multiple/Polynomial Linear Regression | Day 3
+## Multiple Linear Regression | Day 3
 
 <p align="center">
   <img src="https://hackernoon.com/drafts/maq127se.png">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day3-MultipleLinearReg.ipynb).
+
+
+
+## Logistic Regression | Day 4
+
+<p align="center">
+  <img src="https://qph.fs.quoracdn.net/main-qimg-914b29e777e78b44b67246b66a4d6d71">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day4-LogisticRegression.ipynb).
