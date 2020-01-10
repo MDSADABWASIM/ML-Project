@@ -6,7 +6,7 @@
 
 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
-Get the datasets from [here](https://github.com/MDSADABWASIM/ML-Project/tree/master/datasets)
+Get the datasets from [here](https://github.com/MDSADABWASIM/ML-Project/tree/master/datasets).
 
 ## Data PreProcessing | Day 1
 
@@ -43,3 +43,12 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day4-LogisticRegression.ipynb).
+
+
+## Logistic Regression Implementation | Day 5
+
+<p align="center">
+  <img src="https://miro.medium.com/max/3035/1*iKo3KI4kqkZ47W7pmmH4cw.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day5%2C6-LogRegressionEx.ipynb).
