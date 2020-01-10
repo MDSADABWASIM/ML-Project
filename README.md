@@ -45,7 +45,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day4-LogisticRegression.ipynb).
 
 
-## Logistic Regression Implementation | Day 5
+## Logistic Regression Implementation | Day 5/6
 
 <p align="center">
   <img src="https://miro.medium.com/max/3035/1*iKo3KI4kqkZ47W7pmmH4cw.png">
