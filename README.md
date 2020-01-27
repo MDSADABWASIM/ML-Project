@@ -58,3 +58,9 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 <p align="center">
   <img src="https://prod-discovery.edx-cdn.org/media/course/image/7b2ecb24-2874-402b-ad86-473e246cae0c-b9d199ad9784.small.png">
 </p>
+
+## Learning Matplotlib & Seaborn for Data visualisation | Day 17
+
+<p align="center">
+  <img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/09/data-visualization-whiz.png">
+</p>
