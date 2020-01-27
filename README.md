@@ -52,3 +52,9 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day5%2C6-LogRegressionEx.ipynb).
+
+## Learning & Practicing Linear Algebra | Day 7-16
+
+<p align="center">
+  <img src="https://prod-discovery.edx-cdn.org/media/course/image/7b2ecb24-2874-402b-ad86-473e246cae0c-b9d199ad9784.small.png">
+</p>
