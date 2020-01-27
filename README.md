@@ -53,11 +53,13 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day5%2C6-LogRegressionEx.ipynb).
 
+
 ## Learning & Practicing Linear Algebra | Day 7-16
 
 <p align="center">
   <img src="https://prod-discovery.edx-cdn.org/media/course/image/7b2ecb24-2874-402b-ad86-473e246cae0c-b9d199ad9784.small.png">
 </p>
+
 
 ## Learning Matplotlib & Seaborn for Data visualisation | Day 17
 
@@ -65,5 +67,13 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
   <img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/09/data-visualization-whiz.png">
 </p>
 
-
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day17-Seaborn.ipynb).
+
+
+## Learning Plotly and Cufflinks | Day 18-23
+
+<p align="center">
+  <img src="https://plot.ly/~cufflinks/46/a-b-c-d.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day18-23-Plotly%26Cufflinks.ipynb).
