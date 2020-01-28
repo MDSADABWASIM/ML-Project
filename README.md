@@ -77,3 +77,9 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day18-23-Plotly%26Cufflinks.ipynb).
+
+
+## Linear Regression Project | Day 24
+
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day24-LRegrProject.ipynb).
