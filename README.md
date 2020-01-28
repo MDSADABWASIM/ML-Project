@@ -70,13 +70,22 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day17-Seaborn.ipynb).
 
 
-## Learning Plotly and Cufflinks | Day 18-23
+## Learning Plotly and Cufflinks | Day 18-20
 
 <p align="center">
   <img src="https://plot.ly/~cufflinks/46/a-b-c-d.png">
 </p>
 
-Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day18-23-Plotly%26Cufflinks.ipynb).
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day18-20-Plotly%26Cufflinks.ipynb).
+
+
+## Learning Geographical plotting using choropleth | Day 21-23
+
+<p align="center">
+  <img src="https://miro.medium.com/max/804/1*z8i2TbVzNUhBjgugtPTlnQ.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day21-23-GeoPlotting.ipynb).
 
 
 ## Linear Regression Project | Day 24
