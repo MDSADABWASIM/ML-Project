@@ -91,4 +91,4 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Linear Regression Project | Day 24
 
 
-Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day24-LRegrProject.ipynb).
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day24-LinRegProject.ipynb).
