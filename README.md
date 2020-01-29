@@ -92,3 +92,9 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day24-LinRegProject.ipynb).
+
+
+## Logistic Regression Project | Day 25
+
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day25-LogRegProject.ipynb).
