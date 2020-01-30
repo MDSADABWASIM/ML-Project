@@ -98,3 +98,13 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day25-LogRegProject.ipynb).
+
+
+
+## Learning KNN | Day 26
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1531424125/KNN_final_a1mrv9.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day26-KNN.ipynb).
