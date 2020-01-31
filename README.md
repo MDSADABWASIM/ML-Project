@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/MDSADABWASIM/ML-Project/blob/master/LICENSE)
+[![Twitter: @sadab_wasim](https://img.shields.io/badge/contact-@sadab_wasim-blue.svg?style=flat)](https://twitter.com/sadab_wasim)
+
+
 # 100-Days-Of-ML-Code
 <p align="center">
   <img src="https://github.com/MDSADABWASIM/ML-Project/blob/master/assets/ml_image.png">
