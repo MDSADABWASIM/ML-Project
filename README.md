@@ -100,7 +100,6 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day25-LogRegProject.ipynb).
 
 
-
 ## Learning KNN | Day 26
 
 <p align="center">
@@ -108,3 +107,12 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day26-KNN.ipynb).
+
+
+## Learning Decision Tree & Random Forest | Day 27
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1200/0*YEwFetXQGPB8aDFV">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day27-Dtree-RandomForest.ipynb).
