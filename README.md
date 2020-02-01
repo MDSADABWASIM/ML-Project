@@ -120,3 +120,13 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day27-Dtree-RandomForest.ipynb).
+
+https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day28-SVM.ipynb
+
+## Learning SVM | Day 28
+
+<p align="center">
+  <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/SVM-Frontier-method.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day28-SVM.ipynb).
