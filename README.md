@@ -130,3 +130,11 @@ https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day28-SVM.ipynb
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day28-SVM.ipynb).
+
+## Learning KMeans clustring | Day 29
+
+<p align="center">
+  <img src="https://www.researchgate.net/profile/Bishnu_Gautam4/publication/331353158/figure/download/fig1/AS:796033000947713@1566800465422/Before-and-after-hierarchical-clustering.jpg">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day29-KMeans.ipynb).
