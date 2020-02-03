@@ -138,3 +138,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day29-KMeans.ipynb).
+
+## Recommender System Project | Day 30
+
+<p align="center">
+  <img src="https://cdn.welcometothejungle.co/uploads/image/file/0783/154893/6b7c33c9-2f83-465f-9353-4742f8e6adf6.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day30-RecommenderSystem.ipynb).
