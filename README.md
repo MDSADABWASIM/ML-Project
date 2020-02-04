@@ -146,3 +146,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day30-RecommenderSystem.ipynb).
+
+## NLP Project | Day 31
+
+<p align="center">
+  <img src="https://image.slidesharecdn.com/nlp-170405064703/95/natural-language-processing-in-artificial-intelligence-codeup-5-payu-5-638.jpg?cb=1494914534">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day31-NLP-Project.ipynb).
