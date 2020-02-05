@@ -154,3 +154,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day31-NLP-Project.ipynb).
+
+## Tensorflow 1.0 basics | Day 32
+
+<p align="center">
+  <img src="https://i0.wp.com/syncedreview.com/wp-content/uploads/2017/05/tensorflow_logo-svg.png?resize=1000%2C580&ssl=1">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day32-Tensorflow1.0.ipynb).
