@@ -162,3 +162,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day32-Tensorflow1.0.ipynb).
+
+## Handwritten number recognizer (Using Tensorflow) | Day 33
+
+<p align="center">
+  <img src="https://miro.medium.com/max/372/1*AO2rIhzRYzFVQlFLx9DM9A.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day33-NumRecognizer(Hard%20way).ipynb).
