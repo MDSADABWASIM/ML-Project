@@ -163,6 +163,16 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day32-Tensorflow1.0.ipynb).
 
+
+## Tensorflow prediction with Estimator | Day 33
+
+<p align="center">
+  <img src="https://miro.medium.com/max/5000/1*Y26MA5yn45DUYvCfb-0DKQ.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day33-TensorflowWithEstimator.ipynb).
+
+
 ## Handwritten number recognizer (Using Tensorflow) | Day 34
 
 <p align="center">
@@ -170,3 +180,4 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day34-NumRecognizer(Hard%20way).ipynb).
+
