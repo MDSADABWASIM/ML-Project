@@ -181,3 +181,14 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day34-NumRecognizer(Hard%20way).ipynb).
 
+
+
+## Handwritten number recognizer (Using Keras) | Day 35
+
+<p align="center">
+  <img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2019/10/1571319961keras-ai.jpg">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day35-NumRec(Keras).ipynb).
+
+
