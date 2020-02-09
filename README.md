@@ -191,4 +191,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day35-NumRec(Keras).ipynb).
 
+## Tensorflow project exercise | Day 36
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day36-TensorflowProjectExercise.ipynb).
 
