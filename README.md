@@ -195,3 +195,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day36-TensorflowProjectExercise.ipynb).
 
+## Politics Exercise using Keras | Day 37
+
+<p align="center">
+  <img src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day37-PoliticsEx(Keras).ipynb).
+
