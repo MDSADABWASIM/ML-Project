@@ -203,3 +203,10 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day37-PoliticsEx(Keras).ipynb).
 
+## Keras CNN Project | Day 38
+
+<p align="center">
+  <img src="https://image.slidesharecdn.com/koss6b23deepmachinelearningmariochor10-161216033723/95/introduce-deep-learning-ai-applications-21-638.jpg?cb=1481859706">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day38-KerasCNN.ipynb).
