@@ -158,7 +158,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Tensorflow 1.0 basics | Day 32
 
 <p align="center">
-  <img src="https://i0.wp.com/syncedreview.com/wp-content/uploads/2017/05/tensorflow_logo-svg.png?resize=1000%2C580&ssl=1">
+  <img src="https://qph.fs.quoracdn.net/main-qimg-2f43b4a285d26d81564d0ef6b9e1b245">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day32-Tensorflow1.0.ipynb).
@@ -193,12 +193,13 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 ## Tensorflow project exercise | Day 36
 
+
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day36-TensorflowProjectExercise.ipynb).
 
 ## Politics Exercise using Keras | Day 37
 
 <p align="center">
-  <img src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr">
+  <img src="https://miro.medium.com/max/652/1*uokXCDa_O7jzfbUC9qS6cg.png">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day37-PoliticsEx(Keras).ipynb).
