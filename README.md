@@ -211,3 +211,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day38-KerasCNN.ipynb).
+
+## Keras RNN Project | Day 39
+
+<p align="center">
+  <img src="https://www.guru99.com/images/tensorflow/082918_1006_RNNRecurren1.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day39-KerasRNN.ipynb).
