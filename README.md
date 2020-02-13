@@ -219,3 +219,12 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day39-KerasRNN.ipynb).
+
+
+## KNN Exercise Project | Day 40
+
+<p align="center">
+  <img src="https://miro.medium.com/max/2560/1*8WCh1bf_9gYYFdqyBvFGhg.jpeg">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day40-KNNexercise.ipynb).
