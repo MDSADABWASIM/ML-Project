@@ -228,3 +228,12 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day40-KNNexercise.ipynb).
+
+
+## PCA Project | Day 41
+
+<p align="center">
+  <img src="https://chrisalbon.com/images/machine_learning_flashcards/Principal_Component_Analysis_print.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day41-PCA.ipynb).
