@@ -116,17 +116,16 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Learning Decision Tree & Random Forest | Day 27
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1200/0*YEwFetXQGPB8aDFV">
+  <img src="https://xamlbrewer.files.wordpress.com/2019/02/1_oqozep0plmqvebirkajpxq.png">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day27-Dtree-RandomForest.ipynb).
 
-https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day28-SVM.ipynb
 
 ## Learning SVM | Day 28
 
 <p align="center">
-  <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/SVM-Frontier-method.png">
+  <img src="https://machinelearningflashcards.com/images/Support_Vectors_print.png">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day28-SVM.ipynb).
@@ -134,7 +133,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Learning KMeans clustring | Day 29
 
 <p align="center">
-  <img src="https://www.researchgate.net/profile/Bishnu_Gautam4/publication/331353158/figure/download/fig1/AS:796033000947713@1566800465422/Before-and-after-hierarchical-clustering.jpg">
+  <img src="https://chrisalbon.com/images/machine_learning_flashcards/K-Means_Clustering_print.png">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day29-KMeans.ipynb).
