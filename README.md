@@ -236,3 +236,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day41-PCA.ipynb).
+
+## KPCA Project | Day 42
+
+<p align="center">
+  <img src="https://chrisalbon.com/images/machine_learning_flashcards/Kernel_PCA_print.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day42-KPCA.ipynb).
