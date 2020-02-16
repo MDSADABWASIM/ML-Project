@@ -244,3 +244,12 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day42-KPCA.ipynb).
+
+
+## Q-learning Project | Day 43
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSk2nJlgkSbi_ichajJVOdOqMs8wasiyXNQxdt8FPupOnw4FBl7">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day43-Q-Learning.ipynb).
