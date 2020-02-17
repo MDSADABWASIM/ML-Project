@@ -253,3 +253,12 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day43-Q-Learning.ipynb).
+
+
+## Transfer learning Project | Day 44
+
+<p align="center">
+  <img src="https://ruder.io/content/images/2017/03/transfer_learning_setup.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day44-TransferLearning.ipynb).
