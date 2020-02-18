@@ -262,3 +262,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day44-TransferLearning.ipynb).
+
+## ML Workflow Project Part 1 | Day 45
+
+<p align="center">
+  <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2019/11/Estimate-the-Time-Cost-Deliverables-of-an-ML-App-Project.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day45-MLworkflowPart1.ipynb).
