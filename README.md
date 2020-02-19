@@ -270,3 +270,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day45-MLworkflowPart1.ipynb).
+
+
+## ML Workflow Project Part 2 | Day 46
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day46-MLworkflowPart2.ipynb).
