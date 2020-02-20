@@ -269,9 +269,14 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
   <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2019/11/Estimate-the-Time-Cost-Deliverables-of-an-ML-App-Project.png">
 </p>
 
-Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day45-MLworkflowPart1.ipynb).
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day45-MLworkflowPart1.ipynb)
 
 
 ## ML Workflow Project Part 2 | Day 46
 
-Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day46-MLworkflowPart2.ipynb).
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day46-MLworkflowPart2.ipynb)
+
+
+## ML Workflow Project Part 3 | Day 47
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day47-MLworkflowPart3.ipynb)
