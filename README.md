@@ -280,3 +280,13 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## ML Workflow Project Part 3 | Day 47
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day47-MLworkflowPart3.ipynb)
+
+
+
+## PCA Example Project | Day 48
+
+<p align="center">
+  <img src="https://hackernoon.com/hn-images/1*WRKdN-NYF0mMumhfOXVa2Q.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day48-PCAExample.ipynb).
