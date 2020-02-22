@@ -282,7 +282,6 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day47-MLworkflowPart3.ipynb)
 
 
-
 ## PCA Example Project | Day 48
 
 <p align="center">
@@ -290,3 +289,12 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day48-PCAExample.ipynb).
+
+
+## K-Fold Cross Validation Example | Day 49
+
+<p align="center">
+  <img src="https://i.ytimg.com/vi/MFB1T0NObFg/maxresdefault.jpg">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day49-KFoldCrossValidation.ipynb).
