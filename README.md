@@ -266,7 +266,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## ML Workflow Project Part 1 | Day 45
 
 <p align="center">
-  <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2019/11/Estimate-the-Time-Cost-Deliverables-of-an-ML-App-Project.png">
+  <img src="https://miro.medium.com/max/820/1*i32C026a8oI_xFhO_mdqCw.png">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day45-MLworkflowPart1.ipynb)
@@ -328,3 +328,27 @@ Check out the chapters:
 
 [Structured Data: NumPy's Structured Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.09-structured-data-numpy.html).
 
+
+## Digging Deeper in Pandas library | Day 53-54
+
+<p align="center">
+  <img src="https://www.paulloublier.fr/images/blog/python-3-pandas-cheatsheet.jpg">
+</p>
+
+Check out the chapters:
+
+[Data indexing and selection](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html).
+
+[Operating on data in pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.03-operations-in-pandas.html).
+
+[Handling missing data](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html).
+
+[Hierarchial indexing](https://jakevdp.github.io/PythonDataScienceHandbook/03.05-hierarchical-indexing.html).
+
+[Combining datasets: Concat and Append](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html).
+
+[Combining datasets: Merge and Join](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html).
+
+[Aggregation and grouping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html).
+
+[Pivot tables in pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html).
