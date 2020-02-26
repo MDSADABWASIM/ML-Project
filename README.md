@@ -328,7 +328,6 @@ Check out the chapters:
 
 [Structured Data: NumPy's Structured Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.09-structured-data-numpy.html).
 
-
 ## Digging Deeper in Pandas library | Day 53-54
 
 <p align="center">
