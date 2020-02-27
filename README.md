@@ -343,11 +343,11 @@ Check out the chapters:
 [Handling missing data](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html).
 
 [Hierarchial indexing](https://jakevdp.github.io/PythonDataScienceHandbook/03.05-hierarchical-indexing.html).
-<!-- 
+
 [Combining datasets: Concat and Append](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html).
 
 [Combining datasets: Merge and Join](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html).
 
 [Aggregation and grouping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html).
 
-[Pivot tables in pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html). -->
+[Pivot tables in pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html).
