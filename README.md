@@ -348,6 +348,6 @@ Check out the chapters:
 
 [Combining datasets: Merge and Join](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html).
 
-[Aggregation and grouping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html).
+[Aggregation and grouping in pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html).
 
 [Pivot tables in pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html).
