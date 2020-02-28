@@ -351,3 +351,11 @@ Check out the chapters:
 [Aggregation and grouping in pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html).
 
 [Pivot tables in pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html).
+
+## Neural network with fashion mnist data and Keras | Day 55
+
+<p align="center">
+  <img src="https://debuggercafe.com/wp-content/uploads/2019/04/New-Fashion-Collection.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day55-NNwithKeras.ipynb).
