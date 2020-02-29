@@ -359,3 +359,11 @@ Check out the chapters:
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day55-NNwithKeras.ipynb).
+
+## Pandas profiling library example | Day 56
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/5915a3ee29e2e8be434e69115b247b9dc04d8b09/687474703a2f2f70616e6461732d70726f66696c696e672e6769746875622e696f2f70616e6461732d70726f66696c696e672f646f63732f6173736574732f6c6f676f5f6865616465722e706e67">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day56-pandas-profiling.ipynb).
