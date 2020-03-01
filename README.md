@@ -367,3 +367,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day56-pandas-profiling.ipynb).
+
+## Deep dive in Matplotlib library | Day 57
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day57-MatplotlibEx.ipynb).
