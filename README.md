@@ -371,3 +371,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Deep dive in Matplotlib library | Day 57
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day57-MatplotlibEx.ipynb).
+
+## Deep dive in Seaborn library | Day 58
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day58-SeabornEx.ipynb).
