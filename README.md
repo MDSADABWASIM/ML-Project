@@ -375,3 +375,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Deep dive in Seaborn library | Day 58
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day58-SeabornEx.ipynb).
+
+## Final project on mammographic masses dataset | Day 59-60
+
+<p align="center">
+  <img src="https://onlinelibrary.wiley.com/cms/asset/9eff85bd-132a-4892-9d9b-13f67dd8fb68/widm1357-toc-0001-m.jpg">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/FinalProjectAssignment.ipynb).
