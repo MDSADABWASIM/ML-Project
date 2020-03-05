@@ -386,4 +386,4 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 ## Learning about slicing and selection in Numpy | Day 61
 
-Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day58-SeabornEx.ipynb).
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/ipythonExample.ipynb).
