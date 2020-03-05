@@ -383,3 +383,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/FinalProjectAssignment.ipynb).
+
+## Learning about slicing and selection in Numpy | Day 61
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day58-SeabornEx.ipynb).
