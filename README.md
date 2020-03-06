@@ -387,3 +387,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Learning about slicing and selection in Numpy | Day 61
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/ipythonExample.ipynb).
+
+## Spark dataframe exercise project | Day 62
+
+<p align="center">
+  <img src="https://prakhar.me/images/spark.png">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day62-SparkDataFramesProject.ipynb).
