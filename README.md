@@ -399,3 +399,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Linear Regression Example in Spark | Day 63
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day63-SparkLinRegEx.ipynb).
+
+## Linear Regression Example in Spark | Day 63
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day64-SparkLinRegProject.ipynb).
