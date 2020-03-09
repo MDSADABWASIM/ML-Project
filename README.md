@@ -400,6 +400,10 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day63-SparkLinRegEx.ipynb).
 
-## Linear Regression Example in Spark | Day 63
+## Linear Regression Example in Spark | Day 64
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day64-SparkLinRegProject.ipynb).
+
+## Linear Regression Consulting project in Spark | Day 65
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day65-LinRegConsultingProject.ipynb).
