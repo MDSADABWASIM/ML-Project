@@ -407,3 +407,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Linear Regression Consulting project in Spark | Day 65
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day65-LinRegConsultingProject.ipynb).
+
+## Logistic Regression example in Spark | Day 66
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day66-LogRegSpark.ipynb).
