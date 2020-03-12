@@ -413,10 +413,15 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day66-LogRegSpark.ipynb).
 
 
-## Logistic Regression example in Spark | Day 66
+## Logistic Regression example in Spark | Day 67
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/proxy/v_PFEutZlJapNf0-r2ZkQLpV6kufmcnF8ZfIgPEasDpLtDldZNHEZsgHRw4LNqzmVwD7BWMBB2HFhS0TpCjB4vMbCVJMmQ">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day66-LogRegSpark.ipynb).
+
+
+## Logistic Regression example in Spark | Day 68
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day68-LogRegConsultingProject.ipynb).
