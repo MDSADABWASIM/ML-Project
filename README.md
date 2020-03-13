@@ -425,3 +425,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Logistic Regression example in Spark | Day 68
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day68-LogRegConsultingProject.ipynb).
+
+
+## D Tree, Random Forest & Gradient Boosting in Spark | Day 69
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day69-TreesAndBoosting.ipynb).
