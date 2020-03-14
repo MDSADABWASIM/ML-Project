@@ -427,6 +427,10 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day68-LogRegConsultingProject.ipynb).
 
 
-## D Tree, Random Forest & Gradient Boosting in Spark | Day 69
+## D Tree, Random Forest & Gradient Boosting Example in Spark | Day 69
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day69-TreesAndBoosting.ipynb).
+
+## Decision Tree, Random Forest & Gradient Boosting Project in Spark | Day 70
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day70-DTreeAndRforest.ipynb)
