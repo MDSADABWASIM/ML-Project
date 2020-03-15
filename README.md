@@ -391,7 +391,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Spark dataframe exercise project | Day 62
 
 <p align="center">
-  <img src="https://prakhar.me/images/spark.png">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThGDbjUaC9mutb8TzBgq9HqQ38DeBKL-F8P1w6ZEmVL7Lga0gA">
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day62-SparkDataFramesProject.ipynb).
@@ -414,10 +414,6 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 
 ## Logistic Regression project in Spark | Day 67
-
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/v_PFEutZlJapNf0-r2ZkQLpV6kufmcnF8ZfIgPEasDpLtDldZNHEZsgHRw4LNqzmVwD7BWMBB2HFhS0TpCjB4vMbCVJMmQ">
-</p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day66-LogRegSpark.ipynb).
 
