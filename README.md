@@ -413,7 +413,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day66-LogRegSpark.ipynb).
 
 
-## Logistic Regression example in Spark | Day 67
+## Logistic Regression project in Spark | Day 67
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/proxy/v_PFEutZlJapNf0-r2ZkQLpV6kufmcnF8ZfIgPEasDpLtDldZNHEZsgHRw4LNqzmVwD7BWMBB2HFhS0TpCjB4vMbCVJMmQ">
@@ -422,7 +422,7 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day66-LogRegSpark.ipynb).
 
 
-## Logistic Regression example in Spark | Day 68
+## Logistic Regression consulting project in Spark | Day 68
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day68-LogRegConsultingProject.ipynb).
 
@@ -434,3 +434,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Decision Tree, Random Forest & Gradient Boosting Project in Spark | Day 70
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day70-DTreeAndRforest.ipynb)
+
+
+## Tree models Consulting Project in Spark | Day 71
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day71-TreeMethodsConsultingProject.ipynb).
