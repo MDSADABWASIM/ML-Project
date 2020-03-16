@@ -435,3 +435,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Tree models Consulting Project in Spark | Day 71
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day71-TreeMethodsConsultingProject.ipynb).
+
+
+## Kmeans clustering example in Spark | Day 72
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day72-KmeansSparkExample.ipynb).
