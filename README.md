@@ -442,6 +442,6 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day72-KmeansSparkExample.ipynb).
 
 
-## Kmeans clustering project in Spark | Day 72
+## Kmeans clustering project in Spark | Day 73
 
-Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day72-KmeansSparkExample.ipynb).
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day73-KmeansProject.ipynb).
