@@ -448,4 +448,4 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 ## Kmeans clustering consulting project in Spark | Day 74
 
-Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day73-KmeansProject.ipynb).
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day74-KmeansConsultingProject.ipynb).
