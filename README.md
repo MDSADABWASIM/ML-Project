@@ -451,7 +451,6 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day74-KmeansConsultingProject.ipynb).
 
 
-
 ## Telecom customer churn prediction project in Spark | Day 75
 
 <p align="center">
