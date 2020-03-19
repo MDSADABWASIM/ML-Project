@@ -449,3 +449,13 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Kmeans clustering consulting project in Spark | Day 74
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day74-KmeansConsultingProject.ipynb).
+
+
+
+## Telecom customer churn prediction project in Spark | Day 75
+
+<p align="center">
+  <img src="https://46gyn61z4i0t1u1pnq2bbk2e-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/customer-churn-edit.jpeg">
+</p>
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day74-KmeansConsultingProject.ipynb).
