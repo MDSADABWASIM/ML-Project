@@ -458,3 +458,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 </p>
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day75-TelecomChurnProject.ipynb).
+
+
+## Recommender system in Spark | Day 76
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day76-RecommenderUsingSpark.ipynb).
