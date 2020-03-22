@@ -463,3 +463,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Recommender system in Spark | Day 76
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day76-RecommenderUsingSpark.ipynb).
+
+
+## Renewable energy prediction project in Spark | Day 77
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day77-RenewableEnergyGen.ipynb).
