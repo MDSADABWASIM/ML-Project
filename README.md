@@ -468,3 +468,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Renewable energy prediction project in Spark | Day 77
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day77-RenewableEnergyGen.ipynb).
+
+
+## NLP project in Spark | Day 78
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day78-NLP_in_spark.ipynb).
