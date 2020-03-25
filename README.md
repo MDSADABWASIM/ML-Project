@@ -478,3 +478,9 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Online Retail data clustering and analysis project | Day 79
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day79-Retail_data_clustering.ipynb)
+
+
+## Superstore dataset analysis project | Day 80
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day80-Superstore_data_project.ipynb)
+
