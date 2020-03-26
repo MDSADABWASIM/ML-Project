@@ -484,3 +484,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day80-Superstore_data_project.ipynb)
 
+
+## Spark streaming basic project | Day 81
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day81-SparkStreamingBasics.ipynb)
+
