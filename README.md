@@ -485,7 +485,15 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day80-Superstore_data_project.ipynb)
 
 
+<p align="center">
+  <img src="https://bigdatapath.files.wordpress.com/2019/04/1-4.jpg?w=698">
+</p>
+
 ## Spark streaming basic project | Day 81
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day81-SparkStreamingBasics.ipynb)
 
+
+## Spark streaming with Twitter API | Day 82
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day82-SparkStreamingTweets.ipynb)
