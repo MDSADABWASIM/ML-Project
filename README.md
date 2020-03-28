@@ -497,3 +497,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Spark streaming with Twitter API | Day 82
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day82-SparkStreamingTweets.ipynb)
+
+
+## Africa banking data analysis project | Day 83
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day83-AfricaBankingDataProject.ipynb)
