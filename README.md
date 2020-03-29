@@ -502,3 +502,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Africa banking data analysis project | Day 83
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day83-AfricaBankingDataProject.ipynb)
+
+
+## Nifty stock exchange data analysis project | Day 84
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day84-NSE_data_analysis.ipynb)
