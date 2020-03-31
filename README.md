@@ -512,3 +512,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## MLflow example project | Day 85
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day85-mlflow_example.ipynb)
+
+
+## Extract text from image using Tesseract and Tessy | Day 86
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day86-TesseractProject.py)
