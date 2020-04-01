@@ -517,3 +517,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Extract text from image using Tesseract and Tessy | Day 86
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day86-TesseractProject.py)
+
+
+## Extract text from image using Tesseract and Pytesseract | Day 87
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day87-PytesseractProject.py)
