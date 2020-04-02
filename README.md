@@ -522,3 +522,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Extract text from image using Tesseract and Pytesseract | Day 87
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day87-PytesseractProject.py)
+
+
+## Reading docs to train Tesseract OCR | Day 88
+
+Check out the docs from [here](https://www.endpoint.com/blog/2018/07/09/training-tesseract-models-from-scratch)
