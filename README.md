@@ -527,3 +527,8 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Reading docs to train Tesseract OCR | Day 88
 
 Check out the docs from [here](https://www.endpoint.com/blog/2018/07/09/training-tesseract-models-from-scratch)
+
+
+## Text extraction from image using Deeplearning and Tesseract | Day 89
+
+Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day89-DeeplearningOCR.ipynb)
