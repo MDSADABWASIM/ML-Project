@@ -532,3 +532,8 @@ Check out the docs from [here](https://www.endpoint.com/blog/2018/07/09/training
 ## Text extraction from image using Deeplearning and Tesseract | Day 89
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day89-DeeplearningOCR.ipynb)
+
+
+## Working on image Cropping, Resizing to get better result from OCR | Day 90
+
+Check out this helpful project from [here](https://github.com/thelong0705/vietnamese-id-card-ocr)
