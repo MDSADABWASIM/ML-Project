@@ -514,6 +514,11 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day85-mlflow_example.ipynb)
 
 
+<p align="center">
+  <img src="https://s3.amazonaws.com/element-ai-website-bucket/_768x634_crop_center-center_60_line/OCR-Desktop-front@2x.png">
+</p>
+
+
 ## Extract text from image using Tesseract and Tessy | Day 86
 
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day86-TesseractProject.py)
@@ -537,3 +542,4 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 ## Working on image Cropping, Resizing to get better result from OCR | Day 90
 
 Check out this helpful project from [here](https://github.com/thelong0705/vietnamese-id-card-ocr)
+
