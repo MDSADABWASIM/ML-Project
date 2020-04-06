@@ -543,3 +543,6 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 Check out this helpful project from [here](https://github.com/thelong0705/vietnamese-id-card-ocr)
 
+
+## Testing the Tesseract OCR on image Cropping, Resizing and Increased DPI | Day 91-92
+
