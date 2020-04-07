@@ -5,7 +5,7 @@ from scripts.ImagePreprocessor import ImagePreprocessor
 
 
 # Path to an image
-imagePath = r'/Users/inndata_flutter/Downloads/sample3.png'
+imagePath = r'/Users/inndata_flutter/Downloads/4.jpg'
 
 
 new_image = ImagePreprocessor(imagePath)
