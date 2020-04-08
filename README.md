@@ -549,5 +549,9 @@ Check out this helpful project from [here](https://github.com/thelong0705/vietna
 
 ## Checking The official implementation for A2-RL: Aesthetics Aware Rinforcement Learning for Automatic Image Cropping | Day 93-94
 
+<p align="center">
+  <img src="https://i1.wp.com/eutrimonia.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-03-at-11.35.24-AM.png?resize=1140%2C613">
+</p>
+
 Check out the paper and project from [here](https://github.com/wuhuikai/TF-A2RL)
 
