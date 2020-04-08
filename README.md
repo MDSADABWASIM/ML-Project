@@ -546,3 +546,8 @@ Check out this helpful project from [here](https://github.com/thelong0705/vietna
 
 ## Testing the Tesseract OCR on image Cropping, Resizing and Increased DPI | Day 91-92
 
+
+## Checking The official implementation for A2-RL: Aesthetics Aware Rinforcement Learning for Automatic Image Cropping | Day 93-94
+
+Check out the paper and project from [here](https://github.com/wuhuikai/TF-A2RL)
+
