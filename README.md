@@ -511,6 +511,10 @@ Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/m
 
 ## MLflow example project | Day 85
 
+<p align="center">
+  <img src="https://sdtimes.com/wp-content/uploads/2018/06/mlflow.png">
+</p>
+
 Check out the code from [here](https://github.com/MDSADABWASIM/ML-Project/blob/master/Code/Day85-mlflow_example.ipynb)
 
 
