@@ -559,3 +559,8 @@ Check out this helpful project from [here](https://github.com/thelong0705/vietna
 
 Check out the paper and project from [here](https://github.com/wuhuikai/TF-A2RL)
 
+
+## Working on data collection and preparation for training Custom Handwritten Burmese OCR | Day 95
+
+starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecharactersanddigit#burmese-char-digit.data)
+
