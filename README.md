@@ -564,3 +564,7 @@ Check out the paper and project from [here](https://github.com/wuhuikai/TF-A2RL)
 
 starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecharactersanddigit#burmese-char-digit.data)
 
+
+## Learning how to deploy jupyter notebook in openshift | Day 96
+
+
