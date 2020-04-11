@@ -568,3 +568,8 @@ starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecha
 ## Learning how to deploy jupyter notebook in openshift | Day 96
 
 
+<p align="center">
+  <img src="https://fedoramagazine.org/wp-content/uploads/2017/06/minishift.jpg">
+</p>
+
+## Installing minishift to run openshift locally | Day 97
