@@ -565,6 +565,10 @@ Check out the paper and project from [here](https://github.com/wuhuikai/TF-A2RL)
 starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecharactersanddigit#burmese-char-digit.data)
 
 
+<p align="center">
+  <img src="https://keyvatech.com/wp-content/uploads/2019/11/OpenShift-Logo.jpg">
+</p>
+
 ## Learning how to deploy jupyter notebook in openshift | Day 96
 
 
@@ -572,4 +576,4 @@ starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecha
   <img src="https://fedoramagazine.org/wp-content/uploads/2017/06/minishift.jpg">
 </p>
 
-## Installing minishift to run openshift locally | Day 97
+## Installing minishift to run openshift locally | Day 97-98
