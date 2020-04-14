@@ -578,4 +578,6 @@ starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecha
 
 ## Installing minishift to run openshift locally | Day 97-98
 
-## Installed minishift successfully working on deployment| Day 99
+## Installed minishift successfully working on deployment | Day 99
+
+## Started to work on jupyter notebook deployment in openshift environment | Day 100
