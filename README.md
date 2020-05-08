@@ -582,3 +582,8 @@ starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecha
 ## Installed minishift successfully working on deployment | Day 99
 
 ## Started to work on jupyter notebook deployment in openshift environment | Day 100
+
+**Made with** :heart: **and Python**
+
+**If this repository helps you in any matter please consider donating**
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/mdsadabwasim?locale.x=en_GB)
