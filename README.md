@@ -586,4 +586,4 @@ starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecha
 **Made with** :heart: **and Python**
 
 **If this repository helps you in any matter please consider donating**
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/mdsadabwasim?locale.x=en_GB)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen)](https://paypal.me/mdsadabwasim?locale.x=en_GB)
