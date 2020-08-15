@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/MDSADABWASIM/ML-Project/blob/master/LICENSE)
 [![Twitter: @sadab_wasim](https://img.shields.io/badge/contact-@sadab_wasim-blue.svg?style=flat)](https://twitter.com/sadab_wasim)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen)](https://paypal.me/mdsadabwasim?locale.x=en_GB)
 
 
 # 100-Days-Of-ML-Code
@@ -581,3 +582,8 @@ starting with this [dataset](https://www.kaggle.com/datasciencemlclub/burmesecha
 ## Installed minishift successfully working on deployment | Day 99
 
 ## Started to work on jupyter notebook deployment in openshift environment | Day 100
+
+**Made with** :heart: **and Python**
+
+**If this repository helps you in any matter please consider donating**
+[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen)](https://paypal.me/mdsadabwasim?locale.x=en_GB)
